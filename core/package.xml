@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>core</name>
+  <version>0.5.0</version>
+  <description>A package to aggregate the packages required to use publish / subscribe, services, generate messages and other core ROS concepts.</description>
+  <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>launch_testing</exec_depend>
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>rosidl_default_generators</exec_depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+  <exec_depend>ros_environment</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

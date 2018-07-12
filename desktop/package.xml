@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>desktop</name>
+  <version>0.5.0</version>
+  <description>A package which extends 'base' and includes high level packages like vizualization tools, SLAM etc.</description>
+  <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <exec_depend>base</exec_depend>
+
+  <exec_depend>angles</exec_depend>
+  <exec_depend>astra_camera</exec_depend>
+  <exec_depend>cartographer_ros</exec_depend>
+  <exec_depend>depthimage_to_laserscan</exec_depend>
+  <exec_depend>depthimage_to_pointcloud2</exec_depend>
+  <exec_depend>dummy_map_server</exec_depend>
+  <exec_depend>dummy_robot_bringup</exec_depend>
+  <exec_depend>dummy_sensors</exec_depend>
+  <exec_depend>image_tools</exec_depend>
+  <exec_depend>intra_process_demo</exec_depend>
+  <exec_depend>joy</exec_depend>
+  <exec_depend>map_server</exec_depend>
+  <exec_depend>pcl_conversions</exec_depend>
+  <exec_depend>pendulum_control</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>rosidl_default_generators</exec_depend>
+  <exec_depend>rviz2</exec_depend>
+  <exec_depend>rviz_default_plugins</exec_depend>
+  <exec_depend>teleop_twist_joy</exec_depend>
+  <exec_depend>teleop_twist_keyboard</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

@@ -29,6 +29,8 @@
   <exec_depend>examples_rclpy_minimal_subscriber</exec_depend>
   <exec_depend>lifecycle</exec_depend>
   <exec_depend>logging_demo</exec_depend>
+  <exec_depend>rcl_lifecycle</exec_depend>
+  <exec_depend>rclcpp_lifecycle</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   <exec_depend>ros2lifecycle</exec_depend>
   <exec_depend>ros2msg</exec_depend>

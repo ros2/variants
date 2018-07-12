@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>base</name>
+  <name>ros_base</name>
   <version>0.5.0</version>
-  <description>A package which extends 'core' and includes other basic functionalities like commend line tools, tf2 as well as some basic demos/examples.</description>
+  <description>A package which extends 'ros_core' and includes other basic functionalities like commend line tools, tf2 as well as some basic demos/examples.</description>
   <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <exec_depend>core</exec_depend>
+  <exec_depend>ros_core</exec_depend>
 
   <exec_depend>common_interfaces</exec_depend>
   <exec_depend>composition</exec_depend>

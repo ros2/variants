@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(ros_desktop)
+project(desktop)
 
 find_package(ament_cmake REQUIRED)
 

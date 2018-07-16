@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-  <name>ros_desktop</name>
+  <name>desktop</name>
   <version>0.5.0</version>
   <description>A package which extends 'ros_base' and includes high level packages like vizualization tools, SLAM etc.</description>
   <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>

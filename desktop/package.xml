@@ -12,12 +12,8 @@
   <exec_depend>ros_base</exec_depend>
 
   <exec_depend>angles</exec_depend>
-  <exec_depend>amcl</exec_depend>
-  <exec_depend>astra_camera</exec_depend>
-  <exec_depend>cartographer_ros</exec_depend>
   <exec_depend>depthimage_to_laserscan</exec_depend>
   <exec_depend>joy</exec_depend>
-  <exec_depend>map_server</exec_depend>
   <exec_depend>pcl_conversions</exec_depend>
   <exec_depend>rviz2</exec_depend>
   <exec_depend>rviz_default_plugins</exec_depend>

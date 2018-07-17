@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>ros_core</name>
+  <version>0.5.0</version>
+  <description>A package to aggregate the packages required to use publish / subscribe, services, generate messages and other core ROS concepts.</description>
+  <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- ament_cmake repo -->
+  <exec_depend>ament_cmake</exec_depend>
+  <exec_depend>ament_cmake_auto</exec_depend>
+  <exec_depend>ament_cmake_gtest</exec_depend>
+  <exec_depend>ament_cmake_gmock</exec_depend>
+  <exec_depend>ament_cmake_pytest</exec_depend>
+
+  <!-- ament_index repo -->
+  <exec_depend>ament_index_cpp</exec_depend>
+  <exec_depend>ament_index_python</exec_depend>
+
+  <!-- ament_lint repo -->
+  <exec_depend>ament_lint_auto</exec_depend>
+  <exec_depend>ament_lint_common</exec_depend>
+
+  <!-- rcl repo -->
+  <exec_depend>rcl_lifecycle</exec_depend>
+
+  <!-- rclcpp repo -->
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>rclcpp_lifecycle</exec_depend>
+
+  <!-- rclpy repo -->
+  <exec_depend>rclpy</exec_depend>
+
+  <!-- rosidl_defaults repo -->
+  <exec_depend>rosidl_default_generators</exec_depend>
+  <exec_depend>rosidl_default_runtime</exec_depend>
+
+  <!-- ros_environment repo -->
+  <exec_depend>ros_environment</exec_depend>
+
+  <!-- common_interfaces repo -->
+  <exec_depend>common_interfaces</exec_depend>
+
+  <!-- ros2cli repo -->
+  <exec_depend>ros2launch</exec_depend>
+  <exec_depend>ros2lifecycle</exec_depend>
+  <exec_depend>ros2msg</exec_depend>
+  <exec_depend>ros2node</exec_depend>
+  <exec_depend>ros2param</exec_depend>
+  <exec_depend>ros2pkg</exec_depend>
+  <exec_depend>ros2run</exec_depend>
+  <exec_depend>ros2service</exec_depend>
+  <exec_depend>ros2srv</exec_depend>
+  <exec_depend>ros2topic</exec_depend>
+
+  <!-- class_loader repo -->
+  <exec_depend>class_loader</exec_depend>
+  <!-- pluginlib repo -->
+  <exec_depend>pluginlib</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

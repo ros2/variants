@@ -3,7 +3,7 @@
 <package format="2">
   <name>ros_base</name>
   <version>0.5.0</version>
-  <description>A package which extends 'ros_core' and includes other basic functionalities like commend line tools, tf2 as well as some basic demos/examples.</description>
+  <description>A package which extends 'ros_core' and includes other basic functionalities like tf2 and urdf.</description>
   <maintainer email="mikael@osrfoundation.org">Mikael Arguedas</maintainer>
   <license>Apache License 2.0</license>
 

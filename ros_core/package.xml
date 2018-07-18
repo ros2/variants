@@ -16,6 +16,9 @@
   <exec_depend>ament_cmake_gmock</exec_depend>
   <exec_depend>ament_cmake_pytest</exec_depend>
 
+  <!-- ament_cmake_ros repo -->
+  <exec_depend>ament_cmake_ros</exec_depend>
+
   <!-- ament_index repo -->
   <exec_depend>ament_index_cpp</exec_depend>
   <exec_depend>ament_index_python</exec_depend>

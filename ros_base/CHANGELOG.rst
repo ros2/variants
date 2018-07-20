@@ -2,6 +2,11 @@
 Changelog for package ros_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* none languages for metapackages (`#4 <https://github.com/ros2/variants/issues/4>`_)
+* Contributors: Mikael Arguedas
+
 0.5.1 (2018-07-18)
 ------------------
 

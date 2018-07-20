@@ -2,8 +2,8 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2018-07-20)
+------------------
 * remove packages that dont exist in ardent (`#5 <https://github.com/ros2/variants/issues/5>`_)
 * none languages for metapackages (`#4 <https://github.com/ros2/variants/issues/4>`_)
 * add ament_cmake_ros to ros_core (`#2 <https://github.com/ros2/variants/issues/2>`_)

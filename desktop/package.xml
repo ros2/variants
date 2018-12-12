@@ -40,6 +40,8 @@
   <exec_depend>tlsf_cpp</exec_depend>
 
   <!-- examples repo -->
+  <exec_depend>examples_rclcpp_minimal_action_client</exec_depend>
+  <exec_depend>examples_rclcpp_minimal_action_server</exec_depend>
   <exec_depend>examples_rclcpp_minimal_client</exec_depend>
   <exec_depend>examples_rclcpp_minimal_composition</exec_depend>
   <exec_depend>examples_rclcpp_minimal_publisher</exec_depend>

@@ -2,6 +2,9 @@
 Changelog for package ros_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2018-12-12)
+------------------
+
 0.6.0 (2018-12-07)
 ------------------
 * Updated maintainer (`#8 <https://github.com/ros2/variants/issues/8>`_)

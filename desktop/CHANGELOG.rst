@@ -2,6 +2,11 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2018-12-12)
+------------------
+* Add C++ action client and server examples (`#9 <https://github.com/ros2/variants/issues/9>`_)
+* Contributors: Shane Loretz
+
 0.6.0 (2018-12-07)
 ------------------
 * Updated maintainer (`#8 <https://github.com/ros2/variants/issues/8>`_)

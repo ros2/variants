@@ -59,6 +59,7 @@
   <exec_depend>ros2service</exec_depend>
   <exec_depend>ros2srv</exec_depend>
   <exec_depend>ros2topic</exec_depend>
+  <exec_depend>sros2</exec_depend>
 
   <!-- class_loader repo -->
   <exec_depend>class_loader</exec_depend>

@@ -54,8 +54,6 @@
   <exec_depend>examples_rclpy_minimal_service</exec_depend>
   <exec_depend>examples_rclpy_minimal_subscriber</exec_depend>
 
-  <!-- sros2 repo -->
-  <exec_depend>sros2</exec_depend>
   <export>
     <build_type>ament_cmake</build_type>
   </export>

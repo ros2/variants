@@ -21,6 +21,7 @@
   <exec_depend>teleop_twist_keyboard</exec_depend>
 
   <!-- demos repo -->
+  <exec_depend>action_tutorials</exec_depend>
   <exec_depend>composition</exec_depend>
   <exec_depend>demo_nodes_cpp</exec_depend>
   <exec_depend>demo_nodes_cpp_native</exec_depend>
@@ -33,6 +34,9 @@
   <exec_depend>lifecycle</exec_depend>
   <exec_depend>logging_demo</exec_depend>
   <exec_depend>pendulum_control</exec_depend>
+  <exec_depend>pendulum_msgs</exec_depend>
+  <exec_depend>quality_of_service_demo_cpp</exec_depend>
+  <exec_depend>quality_of_service_demo_py</exec_depend>
   <exec_depend>topic_monitor</exec_depend>
 
   <!-- tlsf repo -->
@@ -48,6 +52,8 @@
   <exec_depend>examples_rclcpp_minimal_service</exec_depend>
   <exec_depend>examples_rclcpp_minimal_subscriber</exec_depend>
   <exec_depend>examples_rclcpp_minimal_timer</exec_depend>
+  <exec_depend>examples_rclpy_minimal_action_client</exec_depend>
+  <exec_depend>examples_rclpy_minimal_action_server</exec_depend>
   <exec_depend>examples_rclpy_executors</exec_depend>
   <exec_depend>examples_rclpy_minimal_client</exec_depend>
   <exec_depend>examples_rclpy_minimal_publisher</exec_depend>

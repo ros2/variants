@@ -49,6 +49,7 @@
 
   <!-- ros2cli repo -->
   <exec_depend>ros2action</exec_depend>
+  <exec_depend>ros2component</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   <exec_depend>ros2lifecycle</exec_depend>
   <exec_depend>ros2msg</exec_depend>

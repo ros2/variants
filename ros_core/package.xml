@@ -48,6 +48,8 @@
   <exec_depend>common_interfaces</exec_depend>
 
   <!-- ros2cli repo -->
+  <exec_depend>ros2action</exec_depend>
+  <exec_depend>ros2component</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   <exec_depend>ros2lifecycle</exec_depend>
   <exec_depend>ros2msg</exec_depend>
@@ -59,7 +61,10 @@
   <exec_depend>ros2service</exec_depend>
   <exec_depend>ros2srv</exec_depend>
   <exec_depend>ros2topic</exec_depend>
+
+  <!-- sros2 repo -->
   <exec_depend>sros2</exec_depend>
+  <exec_depend>sros2_cmake</exec_depend>
 
   <!-- class_loader repo -->
   <exec_depend>class_loader</exec_depend>

@@ -21,7 +21,9 @@
   <exec_depend>teleop_twist_keyboard</exec_depend>
 
   <!-- demos repo -->
-  <exec_depend>action_tutorials</exec_depend>
+  <exec_depend>action_tutorials_cpp</exec_depend>
+  <exec_depend>action_tutorials_interfaces</exec_depend>
+  <exec_depend>action_tutorials_py</exec_depend>
   <exec_depend>composition</exec_depend>
   <exec_depend>demo_nodes_cpp</exec_depend>
   <exec_depend>demo_nodes_cpp_native</exec_depend>

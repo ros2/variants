@@ -2,6 +2,11 @@
 Changelog for package ros_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.0 (2019-10-14)
+------------------
+* Added tf2_kdl to the ros_base variant. (`#16 <https://github.com/ros2/variants/issues/16>`_)
+* Contributors: Chris Lalancette
+
 0.6.1 (2018-12-12)
 ------------------
 

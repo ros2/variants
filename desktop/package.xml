@@ -62,6 +62,9 @@
   <exec_depend>examples_rclpy_minimal_service</exec_depend>
   <exec_depend>examples_rclpy_minimal_subscriber</exec_depend>
 
+  <!-- rqt metapackages -->
+  <exec_depend>rqt_common_plugins</exec_depend>
+
   <export>
     <build_type>ament_cmake</build_type>
   </export>

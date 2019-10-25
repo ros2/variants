@@ -12,12 +12,7 @@
   <exec_depend>ros_core</exec_depend>
 
   <!-- geometry2 repo -->
-  <!-- TODO(clalancette) switch to using geometry2 metapackage -->
-  <exec_depend>tf2</exec_depend>
-  <exec_depend>tf2_eigen</exec_depend>
-  <exec_depend>tf2_geometry_msgs</exec_depend>
-  <exec_depend>tf2_kdl</exec_depend>
-  <exec_depend>tf2_ros</exec_depend>
+  <exec_depend>geometry2</exec_depend>
 
   <!-- kdl_parser repo -->
   <exec_depend>kdl_parser</exec_depend>

@@ -2,6 +2,9 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.2 (2019-11-13)
+------------------
+
 0.8.1 (2019-10-14)
 ------------------
 Updated packages in demos repository.

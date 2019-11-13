@@ -2,6 +2,11 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.2 (2019-11-13)
+------------------
+* Added ros2interface to ros_core variant. (`#20 <https://github.com/ros2/variants/issues/20>`_)
+* Contributors: Shane Loretz
+
 0.8.1 (2019-10-14)
 ------------------
 

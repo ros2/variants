@@ -2,6 +2,9 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.1 (2019-10-14)
+------------------
+
 0.8.0 (2019-10-14)
 ------------------
 * Added ros2component to ros_core. (`#13 <https://github.com/ros2/variants/issues/13>`_)

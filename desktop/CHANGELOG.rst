@@ -2,6 +2,11 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.1 (2019-10-14)
+------------------
+Updated packages in demos repository.
+* Contributors: Steven! Ragnarök
+
 0.8.0 (2019-10-14)
 ------------------
 

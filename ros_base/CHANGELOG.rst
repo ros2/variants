@@ -2,6 +2,9 @@
 Changelog for package ros_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.3 (2019-11-20)
+------------------
+
 0.8.2 (2019-11-13)
 ------------------
 * Replaced tf2* by geometry2. (`#19 <https://github.com/ros2/variants/issues/19>`_)

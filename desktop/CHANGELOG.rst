@@ -2,6 +2,12 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.3 (2019-12-10)
+------------------
+* add rqt_common_plugins to desktop (`#18 <https://github.com/ros2/variants/issues/18>`_) (`#22 <https://github.com/ros2/variants/issues/22>`_)
+  Signed-off-by: Mikael Arguedas <mikael.arguedas@gmail.com>
+* Contributors: Mikael Arguedas
+
 0.6.1 (2018-12-12)
 ------------------
 * Add C++ action client and server examples (`#9 <https://github.com/ros2/variants/issues/9>`_)

@@ -2,7 +2,7 @@
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
   <name>ros_base</name>
-  <version>0.8.3</version>
+  <version>0.8.4</version>
   <description>A package which extends 'ros_core' and includes other basic functionalities like tf2 and urdf.</description>
   <maintainer email="steven@openrobotics.org">Steven! Ragnarök</maintainer>
   <license>Apache License 2.0</license>

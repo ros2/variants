@@ -2,6 +2,9 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.8.4 (2019-12-10)
+------------------
+
 0.8.3 (2019-11-20)
 ------------------
 * Add ros2doctor to ros_core variant (`#21 <https://github.com/ros2/variants/issues/21>`_)

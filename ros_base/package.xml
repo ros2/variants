@@ -11,6 +11,9 @@
 
   <exec_depend>ros_core</exec_depend>
 
+  <!-- rosbag2 repo -->
+  <exec_depend>rosbag2</exec_depend>
+  
   <!-- geometry2 repo -->
   <exec_depend>geometry2</exec_depend>
 

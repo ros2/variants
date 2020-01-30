@@ -54,9 +54,10 @@
   <exec_depend>examples_rclcpp_minimal_service</exec_depend>
   <exec_depend>examples_rclcpp_minimal_subscriber</exec_depend>
   <exec_depend>examples_rclcpp_minimal_timer</exec_depend>
+  <exec_depend>examples_rclcpp_multithreaded_executor</exec_depend>
+  <exec_depend>examples_rclpy_executors</exec_depend>
   <exec_depend>examples_rclpy_minimal_action_client</exec_depend>
   <exec_depend>examples_rclpy_minimal_action_server</exec_depend>
-  <exec_depend>examples_rclpy_executors</exec_depend>
   <exec_depend>examples_rclpy_minimal_client</exec_depend>
   <exec_depend>examples_rclpy_minimal_publisher</exec_depend>
   <exec_depend>examples_rclpy_minimal_service</exec_depend>

@@ -54,14 +54,12 @@
   <exec_depend>ros2interface</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   <exec_depend>ros2lifecycle</exec_depend>
-  <exec_depend>ros2msg</exec_depend>
   <exec_depend>ros2multicast</exec_depend>
   <exec_depend>ros2node</exec_depend>
   <exec_depend>ros2param</exec_depend>
   <exec_depend>ros2pkg</exec_depend>
   <exec_depend>ros2run</exec_depend>
   <exec_depend>ros2service</exec_depend>
-  <exec_depend>ros2srv</exec_depend>
   <exec_depend>ros2topic</exec_depend>
 
   <!-- sros2 repo -->

@@ -50,7 +50,7 @@
   <!-- launch repo -->
   <exec_depend>launch</exec_depend>
   <exec_depend>launch_testing</exec_depend>
-  <exec_depend>launch_testing_amend_cmake</exec_depend>
+  <exec_depend>launch_testing_ament_cmake</exec_depend>
   <exec_depend>launch_xml</exec_depend>
   <exec_depend>launch_yaml</exec_depend>
 

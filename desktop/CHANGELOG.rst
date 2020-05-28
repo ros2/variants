@@ -2,6 +2,9 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.1 (2020-05-28)
+------------------
+
 0.9.0 (2020-05-11)
 ------------------
 * Add multithreaded executor example to desktop (`#25 <https://github.com/ros2/variants/issues/25>`_)

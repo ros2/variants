@@ -2,6 +2,9 @@
 Changelog for package ros_base
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.1 (2020-05-28)
+------------------
+
 0.9.0 (2020-05-11)
 ------------------
 * Add rosbag2 to ros variants (`#24 <https://github.com/ros2/variants/issues/24>`_)

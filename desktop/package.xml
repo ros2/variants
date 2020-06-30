@@ -66,6 +66,8 @@
   <!-- rqt metapackages -->
   <exec_depend>rqt_common_plugins</exec_depend>
 
+  <exec_depend>turtlesim</exec_depend>
+
   <export>
     <build_type>ament_cmake</build_type>
   </export>

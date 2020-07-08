@@ -2,6 +2,9 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.2 (2020-07-07)
+------------------
+
 0.9.1 (2020-05-28)
 ------------------
 * Add launch and launch_ros repos to ros_core variant (`#28 <https://github.com/ros2/variants/issues/28>`_)

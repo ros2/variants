@@ -59,8 +59,8 @@
   <exec_depend>launch_testing_ros</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   
-  <!-- ros2_common_extensions repo -->
-  <exec_depend>ros2_common_extensions</exec_depend>
+  <!-- ros2cli_common_extensions repo -->
+  <exec_depend>ros2cli_common_extensions</exec_depend>
 
   <!-- sros2 repo -->
   <exec_depend>sros2</exec_depend>

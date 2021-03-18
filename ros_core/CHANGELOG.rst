@@ -2,6 +2,11 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.3 (2021-03-18)
+------------------
+* Replace ros2cli repo by ros2cli_common_extensions (`#32 <https://github.com/ros2/variants/issues/32>`_)
+* Contributors: Yoan Mollard
+
 0.9.2 (2020-07-07)
 ------------------
 

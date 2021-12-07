@@ -16,7 +16,7 @@
   <exec_depend>image_transport_plugins</exec_depend>
 
   <!-- No laser_pipeline on ROS 2 yet, break it up -->
-  <exec_depend>laser_filter</exec_depend>
+  <exec_depend>laser_filters</exec_depend>
   <exec_depend>laser_geometry</exec_depend>
 
   <exec_depend>perception_pcl</exec_depend>

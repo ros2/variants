@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(desktop_full NONE)
+project(quickstart NONE)
 
 find_package(ament_cmake REQUIRED)
 

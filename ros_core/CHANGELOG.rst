@@ -2,6 +2,11 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.10.0 (2022-05-11)
+-------------------
+* Add rclcpp_action to core. (`#36 <https://github.com/ros2/variants/issues/36>`_)
+* Contributors: Russ
+
 0.9.3 (2021-03-18)
 ------------------
 * Replace ros2cli repo by ros2cli_common_extensions (`#32 <https://github.com/ros2/variants/issues/32>`_)

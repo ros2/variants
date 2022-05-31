@@ -9,7 +9,7 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <!-- Dev Tools -->
+  <!-- Python Tools -->
   <exec_depend>python3-colcon-common-extensions</exec_depend>
   <exec_depend>python3-flake8</exec_depend>
   <exec_depend>python3-pip</exec_depend>
@@ -18,6 +18,11 @@
   <exec_depend>python3-rosdep</exec_depend>
   <exec_depend>python3-setuptools</exec_depend>
   <exec_depend>python3-vcstool</exec_depend>
+
+  <!-- Other Tools -->
+  <exec_depend>cmake</exec_depend>
+  <exec_depend>git</exec_depend>
+  <exec_depend>wget</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>

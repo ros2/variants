@@ -4,8 +4,12 @@
   <name>ros_base</name>
   <version>0.10.0</version>
   <description>A package which extends 'ros_core' and includes other basic functionalities like tf2 and urdf.</description>
-  <maintainer email="steven@openrobotics.org">Steven! Ragnarök</maintainer>
+
+  <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
+
   <license>Apache License 2.0</license>
+
+  <author email="steven@openrobotics.org">Steven! Ragnarök</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

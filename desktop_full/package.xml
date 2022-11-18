@@ -4,8 +4,12 @@
   <name>desktop_full</name>
   <version>0.10.0</version>
   <description>Provides a "batteries included" experience to novice users.</description>
-  <maintainer email="louise@openrobotics.org">Louise Poubel</maintainer>
+
+  <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
+
   <license>Apache License 2.0</license>
+
+  <author email="louise@openrobotics.org">Louise Poubel</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 

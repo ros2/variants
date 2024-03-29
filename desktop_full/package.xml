@@ -3,7 +3,7 @@
 <package format="2">
   <name>desktop_full</name>
   <version>0.10.0</version>
-  <description>Provides a "batteries included" experience to novice users.</description>
+  <description>Provides a 'batteries included' experience to novice users.</description>
 
   <maintainer email="geoff@openrobotics.org">Geoffrey Biggs</maintainer>
 

@@ -16,7 +16,7 @@
   <exec_depend>desktop</exec_depend>
   <exec_depend>perception</exec_depend>
   <exec_depend>simulation</exec_depend>
-  <exec_depend>ros_ign_gazebo_demos</exec_depend>
+  <exec_depend>ros_gz_sim_demos</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>

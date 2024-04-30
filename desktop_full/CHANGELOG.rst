@@ -2,6 +2,13 @@
 Changelog for package desktop_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Rename ros_ign to ros_gz (`#43 <https://github.com/ros2/variants/issues/43>`_)
+* Use single quotes (`#41 <https://github.com/ros2/variants/issues/41>`_)
+* [master] Update maintainers - 2022-11-07 (`#38 <https://github.com/ros2/variants/issues/38>`_)
+* Contributors: Addisu Z. Taddese, Audrow Nash, Martin Peris
+
 0.10.0 (2022-05-11)
 -------------------
 * Add desktop_full, perception, and simulation variants. (`#34 <https://github.com/ros2/variants/issues/34>`_)

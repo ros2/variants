@@ -2,6 +2,11 @@
 Changelog for package ros_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [master] Update maintainers - 2022-11-07 (`#38 <https://github.com/ros2/variants/issues/38>`_)
+* Contributors: Audrow Nash
+
 0.10.0 (2022-05-11)
 -------------------
 * Add rclcpp_action to core. (`#36 <https://github.com/ros2/variants/issues/36>`_)

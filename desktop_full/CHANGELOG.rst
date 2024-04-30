@@ -2,8 +2,8 @@
 Changelog for package desktop_full
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.0 (2024-04-30)
+-------------------
 * Rename ros_ign to ros_gz (`#43 <https://github.com/ros2/variants/issues/43>`_)
 * Use single quotes (`#41 <https://github.com/ros2/variants/issues/41>`_)
 * [master] Update maintainers - 2022-11-07 (`#38 <https://github.com/ros2/variants/issues/38>`_)

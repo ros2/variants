@@ -2,6 +2,9 @@
 Changelog for package simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.11.0 (2024-04-30)
 -------------------
 * Rename ros_ign to ros_gz (`#43 <https://github.com/ros2/variants/issues/43>`_)

@@ -2,8 +2,8 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.12.0 (2024-10-09)
+-------------------
 * Removed action tutorials interfaces dependency (`#44 <https://github.com/ros2/variants/issues/44>`_)
 * Contributors: Alejandro Hernández Cordero
 

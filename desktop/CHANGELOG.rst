@@ -2,6 +2,9 @@
 Changelog for package desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.13.0 (2025-04-25)
+-------------------
+
 0.12.0 (2024-10-09)
 -------------------
 * Removed action tutorials interfaces dependency (`#44 <https://github.com/ros2/variants/issues/44>`_)

@@ -75,6 +75,7 @@
   <exec_depend>class_loader</exec_depend>
   <!-- pluginlib repo -->
   <exec_depend>pluginlib</exec_depend>
+  <exec_depend>ros2plugin</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
